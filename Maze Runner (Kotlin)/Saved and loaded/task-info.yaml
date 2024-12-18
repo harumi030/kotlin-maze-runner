@@ -1,0 +1,11 @@
+type: edu
+files:
+  - name: src/mazerunner/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/MazeRunnerTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24320#comment
+status: Unchecked
+record: -1

@@ -1,0 +1,63 @@
+# Ignore Gradle build directory
+/build/
+!/src/main/resources/**/build/ # Exclude paths containing a build directory in resources
+.gradle/
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Ignore VSCode project files
+.vscode/
+
+# Ignore Eclipse project files
+.project
+.classpath
+.settings/
+bin/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore compiled class files
+*.class
+
+# Ignore dependency caches
+/dependency-cache/
+*.lock
+
+# Ignore generated JARs and archives
+*.jar
+*.war
+*.ear
+
+# Ignore test reports
+/test-results/
+/test-report/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Kotlin specific files
+*.kotlin_module
+
+# Ignore gradle-wrapper binaries
+/gradle/wrapper/gradle-wrapper.jar
+
+# Ignore build scan cache
+/.gradle/build-scan-data/
+
+# Ignore environment files
+.env
+
+# Ignore IDE-specific run configurations
+run/
+
+**/build/**

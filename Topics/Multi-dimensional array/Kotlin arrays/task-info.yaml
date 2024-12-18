@@ -1,0 +1,12 @@
+type: code
+files:
+  - name: src/Main.kt
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10955#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 16 Dec 2024 17:39:53 UTC"
+record: -1
+submission_language: kotlin
